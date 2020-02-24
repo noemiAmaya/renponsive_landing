@@ -1,0 +1,49 @@
+*{
+    font-family: sans-serif ;
+}
+footer{
+    background-color: #1D2D44;
+    padding: 35px 45px;
+    font-size: 15px;
+    color: #37485A;
+   
+}
+
+.box-principal{
+    
+}
+
+.box-title{
+   font-size: 20px;
+   font-weight: 600;
+   color: white;
+}
+
+.box-description{
+    margin: 30px 10px 20px 3px;
+    text-align: justify;
+}
+
+.box-1{
+    color: white;
+    font-weight: 600;
+    margin: 20px 0px;
+}
+.images{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0px 7px 0px 0px;
+}
+
+.red-line{
+    border-bottom :4px #F24C3A solid;
+    width: 40px;
+ 
+}
+
+
+
+
+
+
