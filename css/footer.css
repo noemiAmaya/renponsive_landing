@@ -1,0 +1,61 @@
+*{
+    font-family: sans-serif ;
+}
+footer{
+    background-color: #1D2D44;
+    padding: 20px;
+    font-size: 15px;
+    color: #37485A;
+   
+}
+
+.box-title{
+   font-size: 20px;
+   font-weight: 600;
+   color: white;
+}
+
+.box-description{
+    margin: 30px 10px 20px 3px;
+    text-align: justify;
+}
+
+.box-1{
+    color: white;
+    font-weight: 600;
+    margin: 20px 0px;
+   
+    
+}
+.images{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0px 7px 0px 0px;
+}
+
+.red-line{
+    border-bottom :4px #F24C3A solid;
+    width: 40px;
+ 
+}
+
+@media only screen and (min-width: 768px){
+    .box-principal{
+        width: 40%;
+    }
+    .box-x{
+        padding:0px 50px 0px 50px;
+    
+    }
+    footer{
+        padding: 45px
+       
+    }
+    
+  }
+
+
+
+
+
